@@ -1,0 +1,28 @@
+Label	Replace by
+appointment	appointments
+bureaucracies	bureaucracy
+bureaucratic corruption	corruption
+civil servants	bureaucrats
+environmental policy	environment
+european commission	european union
+european governance	european union
+executive politics	executive
+interest group	interest groups
+lobbyism	lobbying
+policy making	policymaking
+political appointment	political appointments
+political corruption	corruption
+political parties	parties
+politicization	politicisation
+public bureaucracy	bureaucracy
+revolving door	revolving doors
+organised interests	interest groups
+policies	public policy
+democratização	democratisation
+government officials	bureaucrats
+government officers	bureaucrats
+public servants	bureaucrats
+pressure groups	interest groups
+professionalization	professionalisation
+interest organizations	interest groups
+interest organisations	interest groups
