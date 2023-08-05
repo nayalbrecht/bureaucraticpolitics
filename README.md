@@ -3,4 +3,4 @@ Repository with data on the political connections of bureaucrats (Political Scie
 
 The research project sought to map the literature on the political connections of bureaucrats focusing on their relationship with interest groups. I used Scopus and Web of Science to find publications on this topic from 2000 to 2022. This repository contains the main collections (more details in the Appendix).
 
-The file used in VOSViewer and R was 'FinalCollection_vf.ris'.
+The file used in VOSViewer and R was 'GeneralCollection_vf.ris'.
